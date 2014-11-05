@@ -48,7 +48,7 @@
 		"oat-sa/generis" : "dev-develop",
 		"oat-sa/extension-generis-hard" : "dev-develop",
 		"oat-sa/tao-core" : "dev-develop",
-		"oat-sa/extension-tao-community" : "dev-develop",
+		"oat-sa/extension-tao-community" : "dev-outcomeSplit",
 		"oat-sa/extension-tao-funcacl" : "dev-develop",
 		"oat-sa/extension-tao-dac-simple" : "dev-develop",
 		"oat-sa/extension-tao-testtaker" : "dev-develop",
