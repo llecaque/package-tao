@@ -5,9 +5,6 @@
 		{
 			"type" : "vcs",
 			"url" : "https://github.com/jbout/easyrdf"
-		}, {
-			"type" : "vcs",
-			"url" : "https://github.com/oat-sa/extension-tao-outcomeui"
 		}
 	],
 	"authors" : [{
@@ -69,7 +66,7 @@
 		"oat-sa/extension-tao-wfauthoring" : "dev-develop",
 		"oat-sa/extension-tao-testwfauthoring" : "dev-develop",
 		"oat-sa/extension-tao-outcome" : "dev-develop",
-		"oat-sa/extension-tao-outcomerds" : "dev-master",
+		"oat-sa/extension-tao-outcomerds" : "dev-develop",
 		"oat-sa/extension-tao-outcomerdf" : "dev-storage-only",
 		"oat-sa/extension-tao-outcomeui" : "dev-develop",
 		"oat-sa/extension-tao-outcomekeyvalue" : "dev-develop",
