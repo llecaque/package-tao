@@ -71,7 +71,7 @@
 		"oat-sa/extension-tao-outcome" : "dev-develop",
 		"oat-sa/extension-tao-outcomerds" : "dev-master",
 		"oat-sa/extension-tao-outcomerdf" : "dev-storage-only",
-		"oat-sa/extension-tao-outcomeui" : "dev-visualization-only",
+		"oat-sa/extension-tao-outcomeui" : "dev-develop",
 		"oat-sa/extension-tao-outcomekeyvalue" : "dev-develop",
 		"oat-sa/extension-tao-outcomeudp" : "dev-develop",
 		"oat-sa/extension-tao-outcomelti" : "dev-develop",
