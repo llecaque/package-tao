@@ -44,8 +44,9 @@
 	],
 	"homepage" : "http://www.taotesting.com",
 	"license" : "GPL-2.0",
+	"version" : "3.0.0-beta",
 	"name": "oat-sa/tao",
-		"require": {
+	"replace" : {
 			"oat-sa/generis": "2.7-beta",
 			"oat-sa/tao-core": "2.7.2-beta",
 
