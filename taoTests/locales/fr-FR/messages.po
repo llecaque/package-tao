@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.0\n"
+"PO-Revision-Date: 2014-11-20T13:56:02\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: fr-FR\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: fr-FR\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Authoring"
+msgstr ""
+
+msgid "Class saved"
+msgstr "Classe enregistrée"
+
+#, tao-public
+msgid "Combine a selection of items into tests."
+msgstr "Combiner une sélection d'items en tests."
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+msgid "Edit test class"
+msgstr "Modifier la classe du test"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Lists"
+msgstr "Listes"
+
+#, tao-public
+msgid "Manage tests"
+msgstr "Gestion des tests"
+
+msgid "Move"
+msgstr "Déplacer"
+
+msgid "New class"
+msgstr "Créer classe"
+
+msgid "New test"
+msgstr "Créer test"
+
+msgid "Properties"
+msgstr ""
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Test properties"
+msgstr "Propriétés du test"
+
+msgid "Test saved"
+msgstr "Test enregistré"
+
+#, tao-public
+msgid "Tests"
+msgstr "Tests"
+
+msgid "Tests library"
+msgstr "Tests"
+
+msgid "The Test mode (sequencing, scoring, cumulating, etc.) and layout are also configured here."
+msgstr "Le mode de test (séquence, notation, cumul, etc.) et les canevas sont également configurés ici."
+
+msgid "The Tests module allows to combine a selection of Items to a Test."
+msgstr "Le module <i>Tests</i> permet de combiner la sélection d'items à un test."
+

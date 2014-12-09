@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.0\n"
+"PO-Revision-Date: 2014-11-20T14:46:47\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: da-DK\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: da-DK\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Actual size"
+msgstr ""
+
+msgid "As the owner of this resource, you may release the lock"
+msgstr ""
+
+msgid "Authoring"
+msgstr "Oprette"
+
+msgid "Class saved"
+msgstr "Klasse gemt"
+
+msgid "Close"
+msgstr "Luk"
+
+msgid "Close console"
+msgstr ""
+
+#, tao-public
+msgid "Create and design items and exercises."
+msgstr "Opret og design items og øvelser."
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "Desktop preview"
+msgstr ""
+
+msgid "Don’t show this again!"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Edit Item"
+msgstr "Rediger Item"
+
+msgid "Edit item"
+msgstr "Rediger item"
+
+msgid "Edit item class"
+msgstr "Rediger item klasse"
+
+msgid "Export"
+msgstr "Eksport"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Item Locked"
+msgstr ""
+
+msgid "Item Locked:"
+msgstr ""
+
+msgid "Item Model"
+msgstr ""
+
+msgid "Item saved"
+msgstr "Item gemt"
+
+#, tao-public
+msgid "Items"
+msgstr "Item"
+
+msgid "Items library"
+msgstr "Item arkiv"
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Lists"
+msgstr ""
+
+msgid "Lock Owner:"
+msgstr ""
+
+msgid "Locking Date:"
+msgstr ""
+
+#, tao-public
+msgid "Manage items"
+msgstr "Administrere item"
+
+msgid "Mobile preview"
+msgstr ""
+
+msgid "Move"
+msgstr "Flyt"
+
+msgid "New class"
+msgstr ""
+
+msgid "New item"
+msgstr ""
+
+msgid "No item type selected for the current item."
+msgstr "Ingen item type er valgt til denne item."
+
+msgid "Not yet available"
+msgstr "Ikke tilgængeligt endnu"
+
+msgid "Please contact the owner of the resource to unlock it"
+msgstr ""
+
+msgid "Please select first the item type!"
+msgstr "Vælg først item type!"
+
+msgid "Portrait"
+msgstr ""
+
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+msgid "Properties"
+msgstr ""
+
+msgid "ReleaseLock"
+msgstr ""
+
+msgid "Remove this message"
+msgstr ""
+
+msgid "Retrieving external resources"
+msgstr ""
+
+msgid "Scale "
+msgstr ""
+
+msgid "Search"
+msgstr "Søg"
+
+msgid "Submit"
+msgstr ""
+
+msgid "The Items module enables the creation and design of items and exercises."
+msgstr "Item modulet lader dig oprette og designe item og øvelser."
+
+msgid "This item is currently being edited and has been locked"
+msgstr ""
+
+msgid "This preview may be scaled to fit your screen. The final rendering may differ."
+msgstr ""
+
+msgid "Translate"
+msgstr ""
+
+msgid "Unable to create deployement directory"
+msgstr ""
+
+msgid "Unable to release the lock"
+msgstr ""
+

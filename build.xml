@@ -1,0 +1,15 @@
+<project name="build tao" default="build" basedir=".">
+	<property name="src.dir.resolved" value="." />
+	<target name="clean_git" >
+		<move file="${src.dir.resolved}/.git" todir="${src.dir.resolved}/../tmp" includeemptydirs="true"/>
+		<delete includeemptydirs="true">
+			<fileset dir="${src.dir.resolved}" defaultexcludes="false" >
+				<include name="*.git/" />
+				<include name="**/*.git/" />
+			</fileset>
+		</delete>
+		<delete file="${src.dir.resolved}/.gitignore" />
+		<move file="${src.dir.resolved}/../tmp/.git" todir="${src.dir.resolved}/" includeemptydirs="true"/>
+
+	</target>
+</project>

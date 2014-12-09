@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.0\n"
+"PO-Revision-Date: 2014-11-20T13:56:02\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: sv-SE\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: sv-SE\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Authoring"
+msgstr ""
+
+msgid "Class saved"
+msgstr "Klass sparad"
+
+#, tao-public
+msgid "Combine a selection of items into tests."
+msgstr ""
+
+msgid "Delete"
+msgstr "Da bort"
+
+msgid "Duplicate"
+msgstr "Dublett"
+
+msgid "Edit test class"
+msgstr "Redigera testklass"
+
+msgid "Export"
+msgstr "Exportera"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Import"
+msgstr "Importera"
+
+msgid "Lists"
+msgstr "Listor"
+
+#, tao-public
+msgid "Manage tests"
+msgstr "Hantera tester"
+
+msgid "Move"
+msgstr "Flytta"
+
+msgid "New class"
+msgstr "Ny klass"
+
+msgid "New test"
+msgstr "Nytt test"
+
+msgid "Properties"
+msgstr ""
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Test properties"
+msgstr "Testegenskaper"
+
+msgid "Test saved"
+msgstr "Test sparat"
+
+#, tao-public
+msgid "Tests"
+msgstr "Tester"
+
+msgid "Tests library"
+msgstr "Testarkiv"
+
+msgid "The Test mode (sequencing, scoring, cumulating, etc.) and layout are also configured here."
+msgstr "Testmetoden (ordningsföljd, poängräkning, ihopsamling etc.) och layouten byggs även upp här."
+
+msgid "The Tests module allows to combine a selection of Items to a Test."
+msgstr "Testmodulen låter dig kombinera ett urval av frågor till ett test"
+

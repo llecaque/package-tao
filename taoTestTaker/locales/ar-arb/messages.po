@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TAO 3.0\n"
+"PO-Revision-Date: 2014-11-20T15:00:51\n"
+"Last-Translator: TAO Translation Team <translation@tao.lu>\n"
+"MIME-Version: 1.0\n"
+"Language: ar-arb\n"
+"sourceLanguage: en-US\n"
+"targetLanguage: ar-arb\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Class saved"
+msgstr "تم حفظ الصنف"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Edit subject"
+msgstr "تحرير الموضوع"
+
+msgid "Edit subject class"
+msgstr "تعديل الصنف موضوع"
+
+msgid "Export"
+msgstr "تصدير"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Import"
+msgstr "استيراد"
+
+msgid "Lists"
+msgstr "القوائم"
+
+#, tao-public
+msgid "Manage test takers"
+msgstr "إدارة المتقدمين للاختبار"
+
+msgid "Move"
+msgstr "حرك"
+
+msgid "New class"
+msgstr "صنف جديد"
+
+msgid "New test-taker"
+msgstr "مترشح جديد"
+
+msgid "Properties"
+msgstr ""
+
+#, tao-public
+msgid "Record and manage test takers."
+msgstr ""
+
+msgid "Search"
+msgstr "بحث"
+
+msgid "Test taker saved"
+msgstr "حفظ المترشح"
+
+msgid "Test takers"
+msgstr "المترشحون للااختبار"
+
+msgid "Test takers library"
+msgstr "مكتبة المترشحين"
+
+msgid "Test takers may be assigned to sets according to the relevant assessment context (Human resources management, education, edumetric monitoring, etc.)."
+msgstr "(قد يتم تعيين المتقدمين للاختبار إلى مجموعات وفقا لسياق التقييم ذات الصلة (إدارة الموارد البشرية، والتعليم، ورصد، الخ"
+
+#, tao-public
+msgid "Test-takers"
+msgstr ""
+
+msgid "The Test takers module allows to record and manage  test takers."
+msgstr "وحدة المتقدمون للاختبار تسمح بتسجيل وإدارة المتقدمين للاختبار"
+

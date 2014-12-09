@@ -1,0 +1,31 @@
+/*add some style, need to scope (using the typeIdentifier as class prefix) every style declaration to prevent collision */
+
+.likertScaleInteraction{
+    width:100%;
+    padding:25px 30px 30px;
+    background-color:#f5f3f2;
+    margin:20px 0;
+}
+
+.likertScaleInteraction ul.likert{
+    list-style-type: none;
+    margin: 0 5px;
+    padding: 0;
+    display:inline-block;
+    position: relative;
+    top:7px;
+}
+
+.likertScaleInteraction ul.likert li{
+    float: left;
+    text-align: left;
+    list-style-type: none;
+}
+
+.likertScaleInteraction ul.likert li input{margin: 0 3px;}
+
+.likertScaleInteraction .prompt {position:relative;}
+
+.likertScaleInteraction .likert-label {min-width:90px; color: #444;}
+.likertScaleInteraction .likert-label-min {text-align: right;}
+.likertScaleInteraction .likert-label-max {text-align: left;}

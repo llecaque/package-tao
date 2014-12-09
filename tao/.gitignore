@@ -1,0 +1,6 @@
+/.buildpath
+/.project
+/.settings/
+install/log/install.log
+views/build/.htaccess
+views/js/test/.htaccess
