@@ -20,3 +20,6 @@ package.branch=develop
 package.repo=git@github.com:oat-sa/package-tao.git
 
 mathjax.installer.dir=/home/lionel/Téléchargements/
+
+composer.bin=/usr/bin/composer
+phing.bin=vendor/bin/phing

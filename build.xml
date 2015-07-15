@@ -1,6 +1,6 @@
 <project name="TAO Tools" default="help" basedir=".">
 		
-	<property file="../build.properties" />
+	<property file="build.properties" />
 	<resolvepath propertyName="basedir.resolved" file="${tao.root}" />
 	<tstamp>
 		<format property="TSTAMP" pattern="%Y%m%d_%H%M%S" />
@@ -8,7 +8,7 @@
 
 	<target name="help">
 		<echo msg ="Available Command : " />
-		<exec executable="phing" passthru="true">
+		<exec executable="${phing.bin}" passthru="true">
 			<arg value="-l" />
 		</exec>
 	</target>
@@ -79,11 +79,11 @@
 	</target>
 
 	<target name="composer_update" description="Update extensions and 3rd part lib using composer" >
-		<composer command="update" composer="/usr/local/bin/composer" />
+		<composer command="update" composer="${composer.bin}" />
 	</target>
 
 	<target name="composer_install" description="Install extensions and 3rd part lib using composer" >
-		<composer command="install" composer="/usr/local/bin/composer">
+		<composer command="install" composer="${composer.bin}">
 			 <arg value="--working-dir" />
 			 <arg path="${basedir.resolved}" />
 		</composer>
