@@ -1,0 +1,7 @@
+# behat.yml
+default:
+    extensions:
+        Behat\MinkExtension\Extension:
+            base_url: http://package-tao.llecaque.c9.io
+            goutte: ~
+            selenium2: ~
